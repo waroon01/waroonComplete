@@ -1,3 +1,9 @@
+/** Waroon Complete CDN  **/
+/** BY Waroon Rat  **/
+/** than you V.01  **/
+/** letast update 11/17/2020 **/
+
+
 function warooncomplete(textsearch, arr) {
 
     var curshot;
